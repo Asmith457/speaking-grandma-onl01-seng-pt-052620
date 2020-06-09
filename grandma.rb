@@ -1,4 +1,4 @@
-#speak_to_grandma
+#speak_to_grandma=="hey grandma"
 
 #"hey grandma"
 # HUH?! SPEAK UP, SONNY!
